@@ -1,0 +1,43 @@
+## Sonar
+### `PROJECT="timeslot.develop" KEY="com.cargo-parter.timeslot.develop" npm run analysis`
+
+## Material-UI
+https://next.material-ui.com/getting-started/installation/
+### `npm install @material-ui/core@next`
+### `npm install @material-ui/icons@next`
+
+## REACT
+## prop-types
+### `npm i prop-types`
+## React-router-dom
+### `npm i react-router-dom`
+
+## REDUX
+### `npm i redux`
+### `npm i react-redux`
+DEV TOOLS
+### `npm i --save-dev redux-devtools`
+Redux middleware that spits an error on you when you try to mutate your state either inside a dispatch or between dispatches
+### `npm i --save-dev redux-immutable-state-invariant`
+THUNK
+### `npm i redux-thunk`
+
+## Formik
+### `npm install formik --save`
+### `npm install yup --save`
+
+## Lodash
+### `npm i --save lodash`
+
+## json-server
+### `npm install json-server --save-dev`
+
+## faker
+### `npm i faker --save-dev`
+
+Update to latest version
+-------------------------------------------------------
+### `npm i -g npm-check-updates`
+### `npm-check-updates -u`
+### `npm install`
+http://stackoverflow.com/questions/16073603/how-do-i-update-each-dependency-in-package-json-to-the-latest-version
